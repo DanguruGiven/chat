@@ -1,0 +1,5 @@
+.message{
+    height: 200px;
+    overflow-y: auto;
+    box-shadow: 1px 1px 2px 1px #ccc;
+}
